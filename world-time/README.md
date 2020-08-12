@@ -1,0 +1,1 @@
+This is my first flutter project. It is very good choice for beginners in flutter. When i create this project, i got help this video series: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
